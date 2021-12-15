@@ -32,7 +32,7 @@ Hello! Welcome to my portfolio! Here you will find more about me and the work th
 
 ## Code
 
-### Technology name that you want to show off
+### Tailwind CSS
 
 - Tailwind CSS was a new technology for me. I heard it was very flexible and that it would streamline my styling process and it did not disappoint!
 
